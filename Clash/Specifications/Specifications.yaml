@@ -1,0 +1,10 @@
+# NAME: Specifications
+# AUTHOR: Anonymous
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,3gpp.org
+  - DOMAIN-SUFFIX,etsi.org
+  - DOMAIN-SUFFIX,gsma.com
+  - DOMAIN-SUFFIX,trustedconnectivityalliance.org
